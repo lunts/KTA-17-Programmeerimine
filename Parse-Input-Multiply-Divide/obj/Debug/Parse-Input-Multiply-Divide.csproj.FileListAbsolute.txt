@@ -1,0 +1,7 @@
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\Parse-Input-Multiply-Divide\bin\Debug\Parse-Input-Multiply-Divide.exe.config
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\Parse-Input-Multiply-Divide\bin\Debug\Parse-Input-Multiply-Divide.exe
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\Parse-Input-Multiply-Divide\bin\Debug\Parse-Input-Multiply-Divide.pdb
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\Parse-Input-Multiply-Divide\obj\Debug\Parse-Input-Multiply-Divide.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\Parse-Input-Multiply-Divide\obj\Debug\Parse-Input-Multiply-Divide.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\Parse-Input-Multiply-Divide\obj\Debug\Parse-Input-Multiply-Divide.exe
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\Parse-Input-Multiply-Divide\obj\Debug\Parse-Input-Multiply-Divide.pdb

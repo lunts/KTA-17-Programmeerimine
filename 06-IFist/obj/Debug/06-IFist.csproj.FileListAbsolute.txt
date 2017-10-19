@@ -1,0 +1,7 @@
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\06-IFist\bin\Debug\06-IFist.exe.config
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\06-IFist\bin\Debug\06-IFist.exe
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\06-IFist\bin\Debug\06-IFist.pdb
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\06-IFist\obj\Debug\06-IFist.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\06-IFist\obj\Debug\06-IFist.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\06-IFist\obj\Debug\06-IFist.exe
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\06-IFist\obj\Debug\06-IFist.pdb
