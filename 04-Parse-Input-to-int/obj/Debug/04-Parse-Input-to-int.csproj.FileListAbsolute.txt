@@ -1,0 +1,7 @@
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\04-Parse-Input-to-int\bin\Debug\04-Parse-Input-to-int.exe.config
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\04-Parse-Input-to-int\bin\Debug\04-Parse-Input-to-int.exe
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\04-Parse-Input-to-int\bin\Debug\04-Parse-Input-to-int.pdb
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\04-Parse-Input-to-int\obj\Debug\04-Parse-Input-to-int.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\04-Parse-Input-to-int\obj\Debug\04-Parse-Input-to-int.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\04-Parse-Input-to-int\obj\Debug\04-Parse-Input-to-int.exe
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\04-Parse-Input-to-int\obj\Debug\04-Parse-Input-to-int.pdb

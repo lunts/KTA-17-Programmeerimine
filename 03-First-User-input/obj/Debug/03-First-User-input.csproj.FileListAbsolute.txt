@@ -1,0 +1,7 @@
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\03-First-User-input\bin\Debug\03-First-User-input.exe.config
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\03-First-User-input\bin\Debug\03-First-User-input.exe
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\03-First-User-input\bin\Debug\03-First-User-input.pdb
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\03-First-User-input\obj\Debug\03-First-User-input.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\03-First-User-input\obj\Debug\03-First-User-input.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\03-First-User-input\obj\Debug\03-First-User-input.exe
+C:\Users\opilane\Desktop\KTA-17E_AL\src\01-exercises_19.10.2017\Exercises\03-First-User-input\obj\Debug\03-First-User-input.pdb
