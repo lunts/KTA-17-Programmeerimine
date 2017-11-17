@@ -11,6 +11,7 @@ namespace _01_Demo
         static void Main(string[] args)
         {
             Console.WriteLine("Olen demoprogramm");
+            Console.WriteLine("Olen muudatus");
 
             Console.WriteLine("Press any key to continue.");
 
