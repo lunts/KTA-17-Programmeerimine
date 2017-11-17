@@ -10,6 +10,7 @@ namespace Tunnikontroll_17._11
     {
         static void Main(string[] args)
         {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine("Taco Palenque");
             Console.WriteLine("1200 Main ST.");
 
@@ -18,22 +19,23 @@ namespace Tunnikontroll_17._11
             string input = Console.ReadLine();
             decimal number = decimal.Parse(input);
 
-            decimal subtotal = 0;
-            subtotal = subtotal + number;
+            decimal subtotal = number;
+            
 
             while (true)
             {
                     if( number != (-1))
-                Console.WriteLine("Enter price of food item [-1 to quit]: ");
+                Console.Write("Enter price of food item [-1 to quit]: ");
                 input = Console.ReadLine();
                 number = decimal.Parse(input);
-                
-                if(number == -1)
+                subtotal = subtotal + number;
+
+                if (number == -1)
                 {
                     Console.WriteLine("------------------------------------------");
-                    Console.WriteLine("Subtotal: " + Math.Round(subtotal, 2));
-                    Console.WriteLine($"15% Gratuity: {Math.Round((subtotal), 2)}");//Math.Round(KMI, 2)
-                    Console.WriteLine("Total: " + Math.Round(subtotal, 2));
+                    Console.WriteLine("Subtotal: " + Math.Round(subtotal, 4));
+                    Console.WriteLine($"15% Gratuity: {Math.Round((subtotal), 4)}");//Math.Round(KMI, 2)
+                    Console.WriteLine("Total: " + Math.Round(subtotal, 4));
                     Console.WriteLine("Press Any key to continue");
                     break;
                 }
