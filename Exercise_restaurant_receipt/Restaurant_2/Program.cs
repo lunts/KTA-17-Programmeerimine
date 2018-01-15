@@ -21,7 +21,7 @@ namespace Restaurant_2
 
         public Receipt GetReceipt(Tab tab)
         {
-            throw new NotImplementedException();
+            return new Receipt(_name, _address);
         }
     }
     public class Program

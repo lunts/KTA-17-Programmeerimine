@@ -1,15 +1,18 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Restaurant_2
 {
-    internal class Tab
+    public class Tab
     {
-        internal void Add(double v)
+        public IList<double> Entries { get; private set; }
+
+        public void Add(double price)
         {
-            throw new NotImplementedException();
+            Entries.Add(price);
         }
 
-        internal void Add(int v1, int v2)
+        public void Add(int v1, int v2)
         {
             throw new NotImplementedException();
         }
