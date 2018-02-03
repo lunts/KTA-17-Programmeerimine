@@ -1,0 +1,7 @@
+C:\Users\just-\Desktop\Homework_Lunts\Hangman\Hangman_Homework\bin\Debug\Hangman_Homework.exe.config
+C:\Users\just-\Desktop\Homework_Lunts\Hangman\Hangman_Homework\bin\Debug\Hangman_Homework.exe
+C:\Users\just-\Desktop\Homework_Lunts\Hangman\Hangman_Homework\bin\Debug\Hangman_Homework.pdb
+C:\Users\just-\Desktop\Homework_Lunts\Hangman\Hangman_Homework\obj\Debug\Hangman_Homework.csproj.CoreCompileInputs.cache
+C:\Users\just-\Desktop\Homework_Lunts\Hangman\Hangman_Homework\obj\Debug\Hangman_Homework.exe
+C:\Users\just-\Desktop\Homework_Lunts\Hangman\Hangman_Homework\obj\Debug\Hangman_Homework.pdb
+C:\Users\just-\Desktop\Homework_Lunts\Hangman\Hangman_Homework\obj\Debug\Hangman_Homework.csprojResolveAssemblyReference.cache
