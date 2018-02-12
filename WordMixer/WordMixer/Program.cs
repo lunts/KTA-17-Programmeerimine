@@ -18,7 +18,7 @@ namespace WordMixer
             
             List<string> sentenceList = input.Split(new char[] { ' ' }).ToList();
             string[] sentence = sentenceList.ToArray();
-            Console.WriteLine(sentence.Length);
+            
 
             int i=0;
             do

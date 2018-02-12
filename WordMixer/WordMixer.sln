@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordMixer", "WordMixer\WordMixer.csproj", "{2099A673-4147-461F-A2A4-6634F225E182}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KoosTehtudTunnikontroll", "KoosTehtudTunnikontroll\KoosTehtudTunnikontroll.csproj", "{2BEFEDD6-B875-4967-AE38-51F4F610941A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2099A673-4147-461F-A2A4-6634F225E182}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2099A673-4147-461F-A2A4-6634F225E182}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2099A673-4147-461F-A2A4-6634F225E182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BEFEDD6-B875-4967-AE38-51F4F610941A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BEFEDD6-B875-4967-AE38-51F4F610941A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BEFEDD6-B875-4967-AE38-51F4F610941A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BEFEDD6-B875-4967-AE38-51F4F610941A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
