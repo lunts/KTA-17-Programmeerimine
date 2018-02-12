@@ -14,22 +14,34 @@ namespace WordMixer
 
             Console.WriteLine("Kirjuta lause ilma kirjavahemärkideta: ");
 
+            string input = Console.ReadLine();
             
-            
+            List<string> sentenceList = input.Split(new char[] { ' ' }).ToList();
+            string[] sentence = sentenceList.ToArray();
+            Console.WriteLine(sentence.Length);
 
-            //sõna toimib
-            string unsuffled = Console.ReadLine();
-            char[] charArr = unsuffled.ToCharArray();
-            
-          
-            var rnd = new Random();
-            int middleStart = 1;
-            int middleLength = unsuffled.Length - 2;
-            string middle = unsuffled.Substring(middleStart, middleLength);
-                      
-            string shuffled = new string(middle.OrderBy(r => rnd.Next()).ToArray());
-            Console.WriteLine(charArr[0] + shuffled + charArr[charArr.Length - 1]);
-            //https://stackoverflow.com/questions/3226877/character-shuffler
+            int i=0;
+            do
+            {
+                
+                string unsuffled = sentence[i];
+                char[] charArr = unsuffled.ToCharArray();
+
+
+                var rnd = new Random();
+                int middleStart = 1;
+                int middleLength = unsuffled.Length - 2;
+
+
+                string middle = unsuffled.Substring(middleStart, middleLength);
+                string shuffled = new string(middle.OrderBy(r => rnd.Next()).ToArray());
+                Console.Write(charArr[0] + shuffled + charArr[charArr.Length - 1] + " ");
+                //https://stackoverflow.com/questions/3226877/character-shuffler
+
+                i++;
+
+            }
+            while (i < sentence.Length);
 
             
             Console.ReadKey();
