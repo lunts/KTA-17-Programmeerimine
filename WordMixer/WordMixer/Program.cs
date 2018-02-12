@@ -15,9 +15,7 @@ namespace WordMixer
             Console.WriteLine("Kirjuta lause ilma kirjavahemärkideta: ");
 
             
-            string input = Console.ReadLine();
-            List<string> input = new List<string>(Console.ReadLine());
-            string[] sentence = input.ToArray();
+            
 
             //sõna toimib
             string unsuffled = Console.ReadLine();
