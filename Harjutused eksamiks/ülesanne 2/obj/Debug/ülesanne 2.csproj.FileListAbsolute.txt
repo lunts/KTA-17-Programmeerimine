@@ -1,0 +1,7 @@
+C:\Users\just-\Desktop\Homework_Lunts\Eksamiks\Harjutused eksamiks\ülesanne 2\obj\Debug\ülesanne 2.csprojResolveAssemblyReference.cache
+C:\Users\just-\Desktop\Homework_Lunts\Eksamiks\Harjutused eksamiks\ülesanne 2\obj\Debug\ülesanne 2.csproj.CoreCompileInputs.cache
+C:\Users\just-\Desktop\Homework_Lunts\Eksamiks\Harjutused eksamiks\ülesanne 2\bin\Debug\ülesanne 2.exe.config
+C:\Users\just-\Desktop\Homework_Lunts\Eksamiks\Harjutused eksamiks\ülesanne 2\bin\Debug\ülesanne 2.exe
+C:\Users\just-\Desktop\Homework_Lunts\Eksamiks\Harjutused eksamiks\ülesanne 2\bin\Debug\ülesanne 2.pdb
+C:\Users\just-\Desktop\Homework_Lunts\Eksamiks\Harjutused eksamiks\ülesanne 2\obj\Debug\ülesanne 2.exe
+C:\Users\just-\Desktop\Homework_Lunts\Eksamiks\Harjutused eksamiks\ülesanne 2\obj\Debug\ülesanne 2.pdb
