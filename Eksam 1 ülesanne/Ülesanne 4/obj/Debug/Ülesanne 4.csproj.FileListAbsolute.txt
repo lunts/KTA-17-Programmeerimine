@@ -1,0 +1,7 @@
+C:\Users\anneli.lunts\Desktop\Eksam\Eksam 1 ülesanne\Ülesanne 4\obj\Debug\Ülesanne 4.csproj.CoreCompileInputs.cache
+C:\Users\anneli.lunts\Desktop\Eksam\Eksam 1 ülesanne\Ülesanne 4\bin\Debug\Ülesanne 4.exe.config
+C:\Users\anneli.lunts\Desktop\Eksam\Eksam 1 ülesanne\Ülesanne 4\bin\Debug\Ülesanne 4.exe
+C:\Users\anneli.lunts\Desktop\Eksam\Eksam 1 ülesanne\Ülesanne 4\bin\Debug\Ülesanne 4.pdb
+C:\Users\anneli.lunts\Desktop\Eksam\Eksam 1 ülesanne\Ülesanne 4\obj\Debug\Ülesanne 4.exe
+C:\Users\anneli.lunts\Desktop\Eksam\Eksam 1 ülesanne\Ülesanne 4\obj\Debug\Ülesanne 4.pdb
+C:\Users\anneli.lunts\Desktop\Eksam\Eksam 1 ülesanne\Ülesanne 4\obj\Debug\Ülesanne 4.csprojResolveAssemblyReference.cache

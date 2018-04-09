@@ -1,0 +1,7 @@
+C:\Users\anneli.lunts\Desktop\Eksam\Eksam 1 ülesanne\Eksam\obj\Debug\Eksam.csprojResolveAssemblyReference.cache
+C:\Users\anneli.lunts\Desktop\Eksam\Eksam 1 ülesanne\Eksam\obj\Debug\Eksam.csproj.CoreCompileInputs.cache
+C:\Users\anneli.lunts\Desktop\Eksam\Eksam 1 ülesanne\Eksam\bin\Debug\Eksam.exe.config
+C:\Users\anneli.lunts\Desktop\Eksam\Eksam 1 ülesanne\Eksam\bin\Debug\Eksam.exe
+C:\Users\anneli.lunts\Desktop\Eksam\Eksam 1 ülesanne\Eksam\bin\Debug\Eksam.pdb
+C:\Users\anneli.lunts\Desktop\Eksam\Eksam 1 ülesanne\Eksam\obj\Debug\Eksam.exe
+C:\Users\anneli.lunts\Desktop\Eksam\Eksam 1 ülesanne\Eksam\obj\Debug\Eksam.pdb
